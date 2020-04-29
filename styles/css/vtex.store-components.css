@@ -7,7 +7,7 @@
     padding: 24px;
     
 }
-.infoCardHeadline:hover {
+.infoCardCallActionContainer :global(.vtex-button):hover {
     color: white;
 }
 
